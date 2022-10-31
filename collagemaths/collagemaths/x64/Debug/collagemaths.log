@@ -1,0 +1,6 @@
+﻿  collagemaths.cpp
+C:\Users\Zachary\Desktop\C collage\Editcolorofimage\collagemaths\collagemaths\collagemaths.cpp(84,6): warning C4101: 'temp2': unreferenced local variable
+C:\Users\Zachary\Desktop\C collage\Editcolorofimage\collagemaths\collagemaths\collagemaths.cpp(85,6): warning C4101: 'temp3': unreferenced local variable
+C:\Users\Zachary\Desktop\C collage\Editcolorofimage\collagemaths\collagemaths\collagemaths.cpp(89,6): warning C4101: 'temp7': unreferenced local variable
+C:\Users\Zachary\Desktop\C collage\Editcolorofimage\collagemaths\collagemaths\collagemaths.cpp(83,6): warning C4101: 'temp': unreferenced local variable
+  collagemaths.vcxproj -> C:\Users\Zachary\Desktop\C collage\Editcolorofimage\collagemaths\x64\Debug\collagemaths.exe
